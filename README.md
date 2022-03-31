@@ -1,9 +1,10 @@
 
 <img src="./image/lendo-um-livro.png" min-width="250px" max-width="250px" width="250px" align="right">
 
-<h2 align="left">Hello Friend.<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Eu sou a Mayene 😊</h2> 
+<h2 align="left">Hello Friend <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h2> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=revertemayene&color=yellow" alt="Profile views" /> </p>
 
+###  Eu sou a Mayene 😊
 - 🎓 Formada em licenciatura em matemática
 - 🔥 Atualmente estudante de desenvolvimento Front-end 
 - 👩‍🎓 Estou aprendendo **JavaScript, HTML, CSS**
