@@ -2,17 +2,13 @@
 <h2 align="left">Hello Friend <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h2> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=revertemayene&color=yellow" alt="Profile views" /> </p>
 
-<p aligth="left">
-<img width="250em"src="./image/lendo-um-livro.png">
-</p>
-
 ###  Eu sou a Mayene 😊
 - 🎓 Formada em licenciatura em matemática
 - 🔥 Atualmente estudante de desenvolvimento Front-end 
 - 👩‍🎓 Estou aprendendo **JavaScript, HTML, CSS**
 - ❤️ Nas horas livres gosto de ler e cuidar de plantas
 
-<br><br>
+<br>
 
 ### ✨ &nbsp;Hard Skills
 ![HTML](https://img.shields.io/badge/-HTML-36393F?style=flat&logo=HTML5)&nbsp;
