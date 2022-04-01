@@ -1,8 +1,10 @@
 
-<img src="./image/lendo-um-livro.png" min-width="250px" max-width="250px" width="250px" align="right">
-
 <h2 align="left">Hello Friend <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h2> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=revertemayene&color=yellow" alt="Profile views" /> </p>
+
+<p aligth="left">
+<img width="250em"src="./image/lendo-um-livro.png">
+</p>
 
 ###  Eu sou a Mayene 😊
 - 🎓 Formada em licenciatura em matemática
@@ -38,8 +40,8 @@
 <a href="https://linkedin.com/in/mayenereverte" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-mayenereverte-36393F?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://instagram.com/mayenedev" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-mayenedev-36393F?style=flat&logo=instagram" alt="instagram"/>
+<a href="https://instagram.com/mayenereverte" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-mayenereverte-36393F?style=flat&logo=instagram" alt="instagram"/>
 </a>
 
 </p>
